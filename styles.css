@@ -10,11 +10,17 @@ p {
 .a{
     color: white;
     background-color: #b3ccff
-    padding: 35px;
 }
 
 .b{
     color: black;
     background-color: white
+}
+.standard{
     padding: 35px;
 }
+.topnav{
+    padding: 15px;
+    text-align: right;
+}
+
