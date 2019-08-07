@@ -21,6 +21,6 @@ p {
 }
 .topnav{
     padding: 15px;
-    text-align: right;
+    float: right;
 }
 
