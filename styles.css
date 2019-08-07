@@ -3,14 +3,16 @@ body {
 }
 
 p {
-  font-family: verdana;
+  font-family: "Times New Roman", Times, serif;
   font-size: 20px;
 }
 
 .a{
     color: white;
+    background-color: #b3ccff
 }
 
 .b{
-    color: white;
+    color: black;
+    background-color: white
 }
