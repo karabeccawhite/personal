@@ -19,10 +19,14 @@ p {
 .standard{
     padding: 35px;
 }
+
 .topnav{
-    padding: 15px;
     float: right;
     color: white;
     background-color: #b3ccff
+    width: 100%;
+    margin: 0;
+    top: 0;
+    left: 0;
 }
 
