@@ -5,7 +5,7 @@
 }
 .blended_grid{
 	 display : block;
-	 width : 1050px;
+	 width : 100%;
 	 overflow : auto;
 	 margin : 100px auto 0 auto;
 }
@@ -14,40 +14,40 @@
 	 float : left;
 	 clear : none;
 	 height : 200px;
-	 width : 1050px;
+	 width : 100%;
 }
 .middleBanner{
 	 background-color : lightgray;
 	 float : left;
 	 clear : none;
 	 height : 450px;
-	 width : 1050px;
+	 width : 100%;
 }
 .leftBanner{
-	 background-color : lightgray;
+	 background-color : orange;
 	 float : left;
 	 clear : none;
 	 height : 350px;
-	 width : 350px;
+	 width : 33%;
 }
 .centerBanner{
-	 background-color : gray;
+	 background-color : red;
 	 float : left;
 	 clear : none;
 	 height : 350px;
-	 width : 350px;
+	 width : 33%;
 }
 .rightBanner{
-	 background-color : lightgray;
+	 background-color : blue;
 	 float : left;
 	 clear : none;
 	 height : 350px;
-	 width : 350px;
+	 width : 33%;
 }
 .bottomBanner{
 	 background-color : gray;
 	 float : left;
 	 clear : none;
 	 height : 100px;
-	 width : 1050px;
+	 width : 100%;
 }
