@@ -10,42 +10,42 @@
 	 margin : 100px auto 0 auto;
 }
 .topBanner{
-	 background-color : rgba(0, 0, 0, 0.69);
+	 background-color : gray;
 	 float : left;
 	 clear : none;
 	 height : 200px;
 	 width : 1050px;
 }
 .middleBanner{
-	 background-color : rgba(255,255,255, 0.5);
+	 background-color : lightgray;
 	 float : left;
 	 clear : none;
 	 height : 450px;
 	 width : 1050px;
 }
 .leftBanner{
-	 background-color : rgba(255,255,255, 0.5);
+	 background-color : lightgray;
 	 float : left;
 	 clear : none;
 	 height : 350px;
 	 width : 350px;
 }
 .centerBanner{
-	 background-color : rgba(255,255,255, 0.5);
+	 background-color : gray;
 	 float : left;
 	 clear : none;
 	 height : 350px;
 	 width : 350px;
 }
 .rightBanner{
-	 background-color : rgba(255,255,255, 0.5);
+	 background-color : lightgray;
 	 float : left;
 	 clear : none;
 	 height : 350px;
 	 width : 350px;
 }
 .bottomBanner{
-	 background-color : rgba(0, 0, 0, 0.69);
+	 background-color : gray;
 	 float : left;
 	 clear : none;
 	 height : 100px;
