@@ -21,15 +21,12 @@
 	 padding-top: 47px;
 }
 .navBar{
-	 background-color : black;
+	 background-color : white;
 	 float : left;
 	 clear : none;
 	 height : 50px;
 	 width : 100%;
 	 text-align: right;
-	 text-color: white;
-	 padding-right: 25px;
-         padding-top: 25px;
 	 font-family: 'Open Sans', sans-serif;
 }
 .middleBanner{
